@@ -1,0 +1,8 @@
+# Adding some CSS for our App
+body {
+  background-color: black;
+  font-family: Bradley Hand, cursive;
+}
+.text-style {
+  color: white;
+}
