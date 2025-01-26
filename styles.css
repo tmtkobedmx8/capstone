@@ -5,3 +5,8 @@ body {
 .text-style {
   color: white;
 }
+.btn {
+  background-color: red;
+  color: white;
+  border-radius: 15%;
+}
